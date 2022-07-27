@@ -1,3 +1,4 @@
 Ram's Marks
-Ram's Report
-1234
+Maths : 78
+Science : 89
+Social : 92

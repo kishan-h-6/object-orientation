@@ -1,2 +1,4 @@
 Shyam's Marks
-1234
+Math : 56
+Science : 70
+Social : 92
